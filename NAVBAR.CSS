@@ -1,0 +1,35 @@
+nav{
+    background-color:rgb(202, 124, 202);
+    height: 100px;
+    width: 100%;
+}
+ul {
+    list-style-type:none;
+    text-align: center;
+    display: inline;
+    text-align: center;
+    overflow: hidden;
+}
+li{
+    display: inline;
+    float: right;
+    text-align: center;
+    padding-top: 42px;
+}
+li a{
+    display: inline;
+    color: whitesmoke;
+    text-decoration: solid;
+    text-shadow: cornflowerblue;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+li a:hover{
+    background-color: black;
+}
+img {
+    display: inline;
+}
