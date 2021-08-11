@@ -1,0 +1,58 @@
+body{
+    background: rgb(251 194 214);
+    font-family:Yu Gothic UI Light;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height:100px;
+    padding: 0;
+    margin: 0;
+    font-family:Yu Gothic UI Light;
+    font-weight: 400px;
+    font-size: larger;
+}
+nav img{
+    float: left;
+    width: 35px;
+    height: 90px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+nav ul{	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+    background-color: #fff;
+}
+nav li{
+float: left;
+padding-top: 20px;
+padding-left: 100px;
+}
+nav li a{
+    color: rgb(188 163 219);
+    display: block;
+    padding: 20px 50px;
+    text-decoration: none;
+    font-family: Yu Gothic UI Light;
+    font-weight: bold;
+}
+nav li a:hover{
+    background-color: rgb(188 163 219);
+    color: white;
+}
+table{
+    width: 900px;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: white 2px;
+}
+#header th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: white;
+    color: rgb(188 163 219);
+    color: white;
